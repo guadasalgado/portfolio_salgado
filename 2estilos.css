@@ -1,0 +1,24 @@
+.bodyClass{
+    width: 100%;
+    overflow: visible;
+    background-color: rgb(156, 156, 156);
+    color: white !important; 
+    
+}
+
+.WebDevJr{
+    font-size: 2rem;
+}
+
+.ContainerPortfolio {
+    background-color: rgb(58, 58, 58);
+    border-radius: 6px;
+    padding: 20px;
+}
+
+.Linea {
+height: 3px;px;
+border-width:0;
+color:rgb(0, 0, 0);
+background-color:rgb(33, 33, 33)">
+}
