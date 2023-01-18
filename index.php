@@ -70,10 +70,7 @@
                                     <?php echo $proyecto['descripcion'];?>
                                 </p>
 
-                                <!--p>
-                                    <?php echo $proyecto['url'];?>
-                                    zarlanga
-                                </p>-->
+                                
                             </div>
                         </div>
                     </div>

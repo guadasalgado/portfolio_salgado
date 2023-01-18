@@ -107,12 +107,6 @@
                             <textarea required class="form-control" name="descripcion" id="descripcion" cols="30" rows="4"></textarea>
                         </div>
                         
-                        <!--<div>
-                        <label for="url">url</label>
-                        <input required class="form-control" type="url" name ="url" id="url">
-                        </div>-->
-
-
                         <div>
                         <br>
                         <input class="btn btn-success" type="submit" value="Enviar Proyecto">

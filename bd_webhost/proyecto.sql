@@ -32,15 +32,14 @@ CREATE TABLE `proyectos` (
   `nombre` varchar(500) NOT NULL,
   `imagen` varchar(500) NOT NULL,
   `descripcion` text NOT NULL,
-  `url` varchar(500) null,
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Volcado de datos para la tabla `proyectos`
 --
 
-INSERT INTO `proyectos` (`id`, `nombre`, `imagen`, `descripcion`,`url`) VALUES
-(13, 'Crud php', '1638167789_crud.jpg', 'Este es un Crud basico con php e imagenes','www.tuvieja.com'),
+INSERT INTO `proyectos` (`id`, `nombre`, `imagen`, `descripcion`) VALUES
+(13, 'Crud php', '1638167789_crud.jpg', 'Este es un Crud basico con php e imagenes'),
 (16, 'Crud con Laravel', '1638168415_crud.jpg', 'Este es un sitio web para administrar proyectos'),
 (17, 'CRUD 3', '1638169020_crud.jpg', 'Este es el Crud nro 3')
 ;
