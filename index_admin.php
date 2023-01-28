@@ -23,7 +23,6 @@
                     <div class="card-body">
                         <h5 class="card-title"><?php echo $proyecto['nombre'];?></h5>
                         <p class="card-text"><?php echo $proyecto['descripcion'];?></p>
-                        <!--p <//?php echo $proyecto['url'];?//>//></p>-->
                     </div>
                 </div>
             </div>

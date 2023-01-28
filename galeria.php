@@ -106,7 +106,6 @@
                             <label for="descripcion">Indique Descripción del Proyecto</label>
                             <textarea required class="form-control" name="descripcion" id="descripcion" cols="30" rows="4"></textarea>
                         </div>
-                        
                         <div>
                         <br>
                         <input class="btn btn-success" type="submit" value="Enviar Proyecto">

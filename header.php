@@ -85,7 +85,7 @@ session_start(); #inicializamos variables de sesion
                 <ul class="navbar-nav me-auto mb-2">
                     <li class="nav-item">
                         <div class="p-3 d-flex ">
-                            <!--script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+                            <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
                             <lord-icon
                                 src="https://cdn.lordicon.com/igpbsrza.json"
                                 trigger="loop"
@@ -93,20 +93,20 @@ session_start(); #inicializamos variables de sesion
                                 colors="primary:#FFFFFF"
                                 style="width:50px;height:50px;">
                                 
-                            </lord-icon-->
+                            </lord-icon>
                             <a class="nav-link active" aria-current="page"  href="index_admin.php">Ver proyectos</a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="p-3 d-flex ">
-                            <!--script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+                            <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
                             <lord-icon
                             src="https://cdn.lordicon.com/stxtcyyo.json"
                             trigger="loop"
                             delay="1000"
                             colors="primary:#FFFFFF"
                             style="width:50px;height:50px">
-                            </lord-icon-->
+                            </lord-icon>
                             <a class="nav-link active" aria-current="page"  href="galeria.php">Abm</a>
                         </div>
                    
@@ -114,13 +114,13 @@ session_start(); #inicializamos variables de sesion
                     <li class="nav-item">
                         <div class="p-3 d-flex ">
                             <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
-                            <!--lord-icon
+                            <lord-icon
                                 src="https://cdn.lordicon.com/becxqsdr.json"
                                 trigger="loop"
                                 delay="1000"
                                 colors="primary:#FFFFFF"
                                 style="width:50px;height:50px">
-                            </lord-icon-->
+                            </lord-icon>
                             <a class="nav-link active" href="cerrar.php">Cerrar Sesión de User: <span><?php echo $_SESSION['usuario']; ?></span>  </a> 
                         </div>
                    
